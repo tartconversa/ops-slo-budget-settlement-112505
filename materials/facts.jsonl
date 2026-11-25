@@ -1,0 +1,16 @@
+{"at":80,"request":"u01","service":"summary","source":"edge","ref":"a1","revision":1,"outcome":"received","latency_ms":121,"fallback":false}
+{"at":81,"request":"u01","service":"search","source":"edge","ref":"a2","revision":1,"outcome":"failed","latency_ms":null,"fallback":false}
+{"at":83,"request":"u01","service":"search","source":"edge","ref":"a3","revision":1,"outcome":"received","latency_ms":120,"fallback":false}
+{"at":85,"request":"u02","service":"summary","source":"edge","ref":"b1","revision":1,"outcome":"received","latency_ms":148,"fallback":true}
+{"at":89,"request":"u03","service":"search","source":"edge","ref":"c1","revision":1,"outcome":"received","latency_ms":136,"fallback":false}
+{"at":94,"request":"u01","service":"search","source":"client","ref":"a4","revision":1,"outcome":"failed","latency_ms":null,"fallback":false}
+{"at":95,"request":"u01","service":"summary","source":"client","ref":"a5","revision":1,"outcome":"received","latency_ms":110,"fallback":false}
+{"at":97,"request":"u04","service":"summary","source":"edge","ref":"d1","revision":1,"outcome":"received","latency_ms":140,"fallback":false}
+{"at":104,"request":"u01","service":"summary","source":"client","ref":"a5","revision":2,"outcome":"failed","latency_ms":null,"fallback":false}
+{"at":105,"request":"u02","service":"summary","source":"client","ref":"b2","revision":1,"outcome":"received","latency_ms":142,"fallback":true}
+{"at":107,"request":"u05","service":"summary","source":"client","ref":"e1","revision":1,"outcome":"received","latency_ms":160,"fallback":true}
+{"at":109,"request":"u05","service":"search","source":"client","ref":"e2","revision":1,"outcome":"failed","latency_ms":null,"fallback":false}
+{"at":110,"request":"u06","service":"summary","source":"client","ref":"f1","revision":1,"outcome":"received","latency_ms":148,"fallback":true}
+{"at":113,"request":"u01","service":"search","source":"client","ref":"a4","revision":2,"outcome":"withdrawn","latency_ms":null,"fallback":false}
+{"at":115,"request":"u07","service":"search","source":"edge","ref":"g1","revision":1,"outcome":"received","latency_ms":99,"fallback":false}
+{"at":119,"request":"u08","service":"summary","source":"client","ref":"h1","revision":1,"outcome":"unknown","latency_ms":null,"fallback":null}

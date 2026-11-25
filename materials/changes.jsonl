@@ -1,0 +1,8 @@
+{"at":88,"action":"chg-k","kind":"apply","period_start":0,"scopes":["edge","search"],"units":1}
+{"at":88,"action":"chg-k","kind":"begin","period_start":0,"scopes":["edge","search"],"units":1}
+{"at":96,"action":"chg-m","kind":"apply","period_start":0,"scopes":["edge","summary"],"units":1}
+{"at":97,"action":"chg-n","kind":"apply","period_start":0,"scopes":["edge","search"],"units":1}
+{"at":108,"action":"chg-k","kind":"finish","period_start":0,"scopes":["edge","search"],"units":1}
+{"at":111,"action":"chg-r","kind":"apply","period_start":100,"scopes":["edge","summary"],"units":2}
+{"at":114,"action":"chg-n","kind":"withdraw","period_start":0,"scopes":["edge","search"],"units":1}
+{"at":116,"action":"chg-s","kind":"apply","period_start":100,"scopes":["edge","search"],"units":2}

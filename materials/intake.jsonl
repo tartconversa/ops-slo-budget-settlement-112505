@@ -1,0 +1,8 @@
+{"minute":79,"request":"u01","services":["summary","search"],"client_receipt":true}
+{"minute":83,"request":"u02","services":["summary"],"client_receipt":true}
+{"minute":87,"request":"u03","services":["search"],"client_receipt":false}
+{"minute":90,"request":"u04","services":["summary"],"client_receipt":true}
+{"minute":98,"request":"u05","services":["summary","search"],"client_receipt":true}
+{"minute":100,"request":"u06","services":["summary"],"client_receipt":true}
+{"minute":103,"request":"u07","services":["search"],"client_receipt":false}
+{"minute":108,"request":"u08","services":["summary"],"client_receipt":true}

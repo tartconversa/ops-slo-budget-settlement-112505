@@ -1,0 +1,6 @@
+{"scope":"edge","month_start":0,"month_end":100,"error_units":6,"fallback_ok":null,"latency_ms":null,"holds_until_min":12}
+{"scope":"summary","month_start":0,"month_end":100,"error_units":3,"fallback_ok":true,"latency_ms":180,"holds_until_min":12}
+{"scope":"search","month_start":0,"month_end":100,"error_units":2,"fallback_ok":false,"latency_ms":130,"holds_until_min":9}
+{"scope":"edge","month_start":100,"month_end":200,"error_units":5,"fallback_ok":null,"latency_ms":null,"holds_until_min":15}
+{"scope":"summary","month_start":100,"month_end":200,"error_units":4,"fallback_ok":false,"latency_ms":150,"holds_until_min":15}
+{"scope":"search","month_start":100,"month_end":200,"error_units":3,"fallback_ok":false,"latency_ms":120,"holds_until_min":12}
